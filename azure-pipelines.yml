@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- sabear/feature
 
 jobs:
 - job: Linux
